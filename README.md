@@ -1,14 +1,30 @@
-# 🐍 Tkinter Mastery: My Python GUI Learning Journey
+# 🐍 Tkinter Mastery: My Python GUI Learning Journey (15-Days Roadmap )
 
-Welcome to my personal Tkinter learning repository! This space documents my journey to mastering Python's built-in GUI toolkit—Tkinter—from scratch. Over the next 15 days, I’ll be building mini-projects, exploring widgets, and experimenting with layouts, styles, and interactivity.
+Welcome to my structured journey to mastering Tkinter in 15 days! This repo documents each concept with code samples, mini-projects, and curated resources. Follow along or fork it to build your own GUI learning path.
 
-## 📅 Roadmap
+---
 
-- Day 1–3: Tkinter Basics (Windows, Labels, Buttons)
-- Day 4–6: Input Widgets (Entry, Checkbuttons, Radiobuttons)
-- Day 7–9: Layout Managers (Pack, Grid, Place)
-- Day 10–12: Advanced Widgets (Canvas, Treeview, Menus)
-- Day 13–15: Mini Projects + Packaging
+## 📅 Roadmap Overview
+
+| Day | Topic                        | Focus Area                          |
+|-----|------------------------------|-------------------------------------|
+| 1   | Getting Started              | Window setup, `.mainloop()`         |
+| 2   | Buttons & Commands           | Interactivity, `command`, `lambda` |
+| 3   | Entry & Messagebox           | User input, alerts                  |
+| 4   | Checkbuttons & Radiobuttons  | Boolean and single-choice inputs    |
+| 5   | Frames & Nested Layouts      | Modular UI structure                |
+| 6   | Geometry Managers            | `pack`, `grid`, `place`             |
+| 7   | Review & Mini Project        | Apply Week 1 concepts               |
+| 8   | Listbox & Scrollbar          | Selectable lists, scrolling         |
+| 9   | Canvas & Drawing             | Shapes, lines, custom visuals       |
+| 10  | Menus & MenuButtons          | Dropdowns, navigation               |
+| 11  | Tabs & Toplevel Windows      | Multi-view apps                     |
+| 12  | Events & Bindings            | Keyboard/mouse interactivity        |
+| 13  | Treeview & Table Data        | Structured data display             |
+| 14  | Styling with ttk & Themes    | Modern look, `ttkbootstrap`         |
+| 15  | Final Project & Packaging    | Build, polish, distribute           |
+
+---
 
 ## 🧠 Goals
 
